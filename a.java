@@ -1,4 +1,2 @@
-void
-{
-welcomw
-}
+
+system.out.println("cmrcet");
