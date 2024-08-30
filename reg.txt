@@ -1,0 +1,5 @@
+<html>
+<head>reg page</head>
+<title>registration page cmrcet</title>
+<body>hello</body>
+</html>
