@@ -1,4 +1,4 @@
 void
 {
-system.out.println("welcome");
+welcomw
 }
